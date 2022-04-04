@@ -3,9 +3,9 @@ package main
 import (
 	"fmt"
 	"log"
+	"mygrpc-userService/user"
 	"net"
 
-	"github.com/espitman/mygrpc-userService/user"
 	"google.golang.org/grpc"
 )
 
