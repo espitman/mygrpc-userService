@@ -1,4 +1,4 @@
-module myGrpcUserService
+module mygrpc-userService
 
 go 1.17
 

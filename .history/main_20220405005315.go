@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 	"log"
-	"mygrpc-userService/user"
+	"myGrpcUserService/user"
 	"net"
 
 	"google.golang.org/grpc"
